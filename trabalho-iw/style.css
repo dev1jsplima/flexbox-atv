@@ -1,0 +1,129 @@
+body{
+    background-image: url('https://blog.maxtitanium.com.br/wp-content/uploads/2023/11/ramon-dino-atleta-max-titanium-mr-olympia-2023-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body, ul, li, p{
+    font-family: Titillium Web;
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    font-size: 1.2rem;
+}
+.RC{
+    font-size: 27px;
+}
+h1{
+    font-family: Montserrat;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    display: block;
+    background-color: #393939;
+    width: fit-content;
+    margin-left: 50px;
+    border-radius: 10px;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.menu{
+    display: flex;
+}
+.menu li{
+    margin-left: 20px;
+}
+.menu a{
+    display: block;
+    background-color: white;
+    color: black;
+    border-radius: 45px;
+    width: 80px;
+    height: 25px;
+    text-align: center;
+    margin-top: 17px;
+}
+#container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: flex-start;
+    height: 60px;
+    background-color: rgb(255, 0, 0);
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-family: Montserrat;
+    font-weight: 1000;
+}
+.olympia{
+    width: 44px;
+}
+.item img{
+    width: 250px;
+    height: 280px;
+}
+.img9, .img1, .img2, .img5, .img6, .img7, .img8, .img13, .img15, .img16{
+    background-color: #575353;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+    width: 300px;
+    text-align: justify;
+}
+.img9 img{
+    width: 300px;
+}
+.img1 img{
+    width: 200px;
+}
+.img2 img{
+    width: 300px;
+}
+.img5 img{
+    width: 300px;
+}
+.img6 img{
+    width: 300px;
+}
+.img7 img{
+    width: 300px;
+}
+.img8 img{
+    width: 200px;
+}
+.img13 img{
+    width: 300px;
+}
+.img15 img{
+    width: 300px;
+}
+.img16 img{
+    width: 300px;
+}
+.item{
+    background-color: #575353;
+    color: #fff;
+    padding: 20px;
+    margin: 5px;
+    width: 300px;
+    text-align: justify;
+}
+.sobre{
+    font-size: 27px;
+    font-family: Titillium Web;
+}
